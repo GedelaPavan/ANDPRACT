@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Gene Sequence Analyser</string>
+    <string name="subtitle">NCBI FASTA Downloader &amp; bioKT Analyzer</string>
+    <string name="google_sign_in">Sign In with Google</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="not_logged_in">Not logged in</string>
+    <string name="enter_accession_hint">Enter Accession (e.g. NM_000518)</string>
+    <string name="scan_accession">Scan Lab Sheet (OCR)</string>
+    <string name="download_analyze">Download &amp; Analyze</string>
+    <string name="save_to_history">Save Analysis to History</string>
+    <string name="orfs_title">Open Reading Frames (ORFs)</string>
+    <string name="history_title">Saved Sequence History</string>
+    <string name="search_history_hint">Search history by Accession ID...</string>
+    <string name="no_orfs_found">No Open Reading Frames (>= 100 bp) found.</string>
+    <string name="no_history">No saved sequence history yet.</string>
+    <string name="default_web_client_id">YOUR_FIREBASE_WEB_CLIENT_ID.apps.googleusercontent.com</string>
+</resources>
